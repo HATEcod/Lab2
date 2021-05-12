@@ -1,0 +1,34 @@
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\NSubstitute.dll
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CopyComplete
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\SONY\Desktop\Course 3\Semester 2\Компоненти ПІ 4\QA-lab\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\NSubstitute.dll
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CopyComplete
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\SONY\Desktop\lab2\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
